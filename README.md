@@ -1,10 +1,11 @@
 # Learn Bash Scripting
 
-These are my notes and projects done on shell scripting.
+These are my notes and projects done on BASH shell scripting.
 
 - [Course Notes](notes)
 - [Course Projects](bin/projects)
-- [Instructor Scripts](class)
+- [Instructor Demo Scripts](class/demos)
+- [Instructor Projects](class/exercises)
 
 ## References
 
